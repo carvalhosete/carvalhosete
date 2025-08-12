@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/S1nB5sv.gif" alt="Solo Leveling Hunter" width="60%" />
+  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" alt="Solo Leveling Hunter" width="60%" />
 </p>

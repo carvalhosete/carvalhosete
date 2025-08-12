@@ -1,6 +1,6 @@
 <!-- Banner ou GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" alt="Portal Solo Leveling" width="100%" />
+  <img src="assets/3dbdc5948be0594c2ac2920af9f7fad3.gif" alt="Banner One Piece" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" alt="Solo Leveling Hunter" width="60%" />
+  <img src="assets/3dbdc5948be0594c2ac2920af9f7fad3.gif" alt="Banner One Piece Final" width="60%" />
 </p>

@@ -33,6 +33,7 @@
 
 ## 📂 Projetos em Destaque
 - [JobFinder](https://github.com/carvalhosete/Job-Finder) – Plataforma de divulgação e busca de vagas de TI
+- [API RESTful](https://github.com/carvalhosete/api-gerenciador-de-tarefas) - Gerenciador de Tarefas com login e senha 
 - Em breve... novos portais para explorar 👁
 
 ---

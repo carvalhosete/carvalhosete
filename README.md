@@ -1,6 +1,6 @@
 <!-- Banner ou GIF -->
 <p align="center">
-  <img src="assets/header.gif" alt="Banner One Piece" width="100%" />
+  <img src="assets/header.gif" alt="Banner One Piece" width="50%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>

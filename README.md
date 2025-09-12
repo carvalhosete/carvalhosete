@@ -21,13 +21,18 @@ Sou um desenvolvedor de software especializado em **JavaScript, Node.js, React e
 
 * **JobFinder**
     * **Descrição:** Uma plataforma de divulgação e busca de vagas de TI.
-    * **Tecnologias:** [Mencione as tecnologias principais, por exemplo: Node.js, Express, MySQL, etc.]
-    * **Link:** [Link para o projeto](https://github.com/carvalhosete/Job-Finder)
+    * **Tecnologias:** Nodejs, Express, SQLite
+    * **Link:** [JobFinder](https://github.com/carvalhosete/Job-Finder)
 
-* **API RESTful**
+* **API RESTful - Gerenciador de Tarefas**
     * **Descrição:** Uma API de gerenciamento de tarefas com autenticação de usuário (login e senha).
-    * **Tecnologias:** [Mencione as tecnologias principais, por exemplo: Node.js, Express, JWT, etc.]
-    * **Link:** [Link para o projeto](https://github.com/carvalhosete/api-gerenciador-de-tarefas)
+    * **Tecnologias:** NodeJs, Express, Prisma, Docker, PostgreSQL, JWT
+    * **Link:** [API - Gerenciador de Tarefas](https://github.com/carvalhosete/api-gerenciador-de-tarefas)
+ 
+* **Interface - Gerenciador de Tarefas**
+    * **Descrição:** Uma API de gerenciamento de tarefas com autenticação de usuário (login e senha).
+    * **Tecnologias:** React, HTML, CSS
+    * **Link:** [API - Gerenciador de Tarefas](https://github.com/carvalhosete/frontend-api-gerenciador-de-tarefas)
 
 ---
 
@@ -42,5 +47,5 @@ Sou um desenvolvedor de software especializado em **JavaScript, Node.js, React e
 
 ### Contato
 
-* **LinkedIn:** [Seu nome de usuário ou link direto](https://www.linkedin.com/in/carvalhosete/)
-* **Email:** [Seu email](mailto:seuemail@exemplo.com)
+* **LinkedIn:** [Linkedin/LeonardoCarvalho](https://www.linkedin.com/in/lcarvalho7/)
+* **Email:** [lcarvalho7@outlook.com](mailto:lcarvalho7@outlook.com)

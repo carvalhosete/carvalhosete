@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-<h3 align="center">Software Developer | React & Node.js</h3>
+<h3 align="center">Software Developer | JavaScript/TypeScript | React & Node.js</h3>
 
 ---
 
 ### Sobre mim
 
-Sou um desenvolvedor de software especializado em **JavaScript, Node.js, React e APIs RESTful**. Tenho interesse em **Arquitetura de Software** e **Banco de Dados**, sempre buscando otimizar o código e enfrentar novos desafios.
+Sou um desenvolvedor de software especializado em **JavaScript/TypeScript, Node.js, React e APIs RESTful**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida, onde aprimoro minhas habilidades e consolido meu aprendizado com projetos acadêmicos e pessoais.
 
 ---
 
@@ -32,7 +32,7 @@ Sou um desenvolvedor de software especializado em **JavaScript, Node.js, React e
 * **Interface - Gerenciador de Tarefas**
     * **Descrição:** Uma API de gerenciamento de tarefas com autenticação de usuário (login e senha).
     * **Tecnologias:** React, HTML, CSS
-    * **Link:** [API - Gerenciador de Tarefas](https://github.com/carvalhosete/frontend-api-gerenciador-de-tarefas)
+    * **Link:** [Interface - Gerenciador de Tarefas](https://github.com/carvalhosete/frontend-api-gerenciador-de-tarefas)
 
 ---
 

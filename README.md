@@ -5,7 +5,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor de software especializado em **JavaScript, Node.js e APIs RESTful**. Tenho interesse em **Arquitetura de Software** e **Banco de Dados**, sempre buscando otimizar o código e enfrentar novos desafios.
+Sou um desenvolvedor de software especializado em **JavaScript, Node.js, React e APIs RESTful**. Tenho interesse em **Arquitetura de Software** e **Banco de Dados**, sempre buscando otimizar o código e enfrentar novos desafios.
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-<h3 align="center">Software Developer | Backend & Node.js</h3>
+<h3 align="center">Software Developer | React & Node.js</h3>
 
 ---
 

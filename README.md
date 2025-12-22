@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-<h3 align="center">Software Developer | JavaScript/TypeScript | React & Node.js</h3>
+<h3 align="center">Software Developer | Java | JavaScript | Spring Boot | Node.js</h3>
 
 ---
 
 ### Sobre mim
 
-Sou um desenvolvedor de software especializado em **JavaScript/TypeScript, Node.js, React e APIs RESTful**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida, onde aprimoro minhas habilidades e consolido meu aprendizado com projetos acadêmicos e pessoais.
+Sou um desenvolvedor de software especializado em **Java Spring Boot, SQL Server e Node**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida, onde aprimoro minhas habilidades e consolido meu aprendizado com projetos acadêmicos e pessoais.
 
 ---
 

@@ -3,55 +3,47 @@
 </div>
 
 <p align="center">
-  <em>"Transformando café em código e ideias em APIs robustas." ☕🚀</em>
+  <em>"Transformando café em código e ideias em APIs robustas." ☕</em>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-Sou um desenvolvedor focado em **Back-end**, transicionando de Delphi para o ecossistema moderno de **Java**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida.
+Desenvolvedor de software focado em **Back-end**, em transição de carreira do ecossistema Delphi para **Java e Spring Boot**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida.
 
-* 🔭 **Atualmente trabalhando em:** Projetos de portfólio focados em Arquitetura de Software.
-* 🌱 **Atualmente aprendendo:** Spring Security, Design Patterns e Microservices.
-* 🎯 **Objetivo:** Me tornar Especialista em Java/Spring Boot.
+Busco oportunidades para aplicar conhecimentos em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento (SOLID, Clean Code).
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### Stack Tecnológica
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,docker,mysql,postgres,git,github,vscode,idea,postman&theme=dark" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos Recentes
 
-| Projeto | Descrição | Stack Principal |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **🏦 JBank** | API RESTful simulando operações bancárias (Em desenvolvimento). | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| **🔍 JobFinder** | Plataforma de divulgação e busca de vagas de TI. | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
-| **✅ Task Manager API** | API de tarefas com autenticação JWT e segurança. | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **JBank** | API RESTful simulando operações bancárias com regras de negócio complexas e segurança. | ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) |
+| **JobFinder** | Plataforma de divulgação e busca de vagas de TI. | ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) |
+| **Task Manager API** | API de gerenciamento de tarefas com autenticação e documentação. | ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalhosete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosete&layout=compact&theme=tokyonight&langs_count=7"/>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carvalhosete&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosete&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
 </div>
 
 ---
 
-### 📫 Vamos Conectar?
+### Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lcarvalho7/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:lcarvalho7@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+* [LinkedIn](https://www.linkedin.com/in/lcarvalho7/)
+* [lcarvalho7@outlook.com](mailto:lcarvalho7@outlook.com)

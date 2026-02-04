@@ -36,11 +36,16 @@ Busco oportunidades para aplicar conhecimentos em arquitetura de software, APIs 
 
 ### GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carvalhosete&show_icons=true&theme=dark&locale=pt-br" height="150px" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carvalhosete&theme=dark&hide_border=true" height="150px" />
-</div>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=carvalhosete&show_icons=true&theme=dark&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=carvalhosete&theme=dark&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
